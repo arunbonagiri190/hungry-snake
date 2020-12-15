@@ -3,6 +3,7 @@ a snake game in reverse mode, I mean finding the path itself by using shortest p
 Not completed version.
 
 controls:
+
 	a - left 
 	d - right
 	w - up
@@ -13,6 +14,8 @@ controls:
 	
 	
 run:
+
+
 	>>python src/main.py
 
 
